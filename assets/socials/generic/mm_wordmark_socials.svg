@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="510.95001mm"
+   height="510.95001mm"
+   viewBox="0 0 510.95001 510.95001"
+   version="1.1"
+   id="svg943"
+   inkscape:version="1.0.2 (1.0.2+r75+1)"
+   sodipodi:docname="mm_wordmark_socials.svg">
+  <defs
+     id="defs937" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="1057.0034"
+     inkscape:cy="1305.575"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="2506"
+     inkscape:window-height="1376"
+     inkscape:window-x="54"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata940">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(173.83215,197.26672)">
+    <g
+       id="g3160"
+       transform="matrix(2.55475,0,0,2.55475,-5383.9061,-1702.4807)">
+      <rect
+         style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:3.3585;stroke-linejoin:round;stroke-opacity:1"
+         id="rect1336-8-2-9"
+         width="200"
+         height="200"
+         x="2039.3674"
+         y="589.1825"
+         inkscape:export-xdpi="260.10001"
+         inkscape:export-ydpi="260.10001" />
+      <g
+         id="g3153"
+         transform="matrix(1.2052235,0,0,1.1852631,-475.50062,-94.787169)"
+         inkscape:export-xdpi="260.10001"
+         inkscape:export-ydpi="260.10001">
+        <g
+           aria-label="Mossmark Co."
+           transform="matrix(11.615911,0,0,11.615911,-1473.9924,-1491.2099)"
+           id="text1392-1-9-9"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'Glacial Indifference';-inkscape-font-specification:'Glacial Indifference';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1394-4);fill:#e6e6e6;fill-opacity:1;stroke:none">
+          <path
+             d="m 310.1441,188.05937 h 1.55574 v -6.31823 l -1.55574,1.22766 z m 6.29706,-6.31823 c -0.254,0 -0.508,0.0847 -0.70908,0.24342 l -0.75141,0.59266 h 1.05833 v 5.48215 h 1.56632 v -5.16465 c 0,-0.635 -0.51858,-1.15358 -1.16416,-1.15358 z m -2.95274,0 c -0.254,0 -0.508,0.0847 -0.70908,0.24342 l -0.79375,0.61383 h 1.10066 v 5.46098 h 1.56633 v -5.16465 c 0,-0.635 -0.51858,-1.15358 -1.16416,-1.15358 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Stanley;-inkscape-font-specification:Stanley;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1394-4);fill:#498531;fill-opacity:1;stroke:none"
+             id="path2149-9-1-4" />
+          <path
+             d="m 309.74194,188.89545 h 1.55574 v -6.31823 l -1.55574,1.22766 z m 6.29706,-6.31823 c -0.254,0 -0.508,0.0847 -0.70908,0.24342 l -0.75141,0.59266 h 1.05833 v 5.48215 h 1.56632 v -5.16465 c 0,-0.635 -0.51858,-1.15358 -1.16416,-1.15358 z m -2.95274,0 c -0.254,0 -0.508,0.0847 -0.70908,0.24342 l -0.79375,0.61383 h 1.10066 v 5.46098 h 1.56633 v -5.16465 c 0,-0.635 -0.51858,-1.15358 -1.16416,-1.15358 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Stanley;-inkscape-font-specification:Stanley;fill:#e6e6e6;fill-opacity:1"
+             id="path2149-9-1" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
